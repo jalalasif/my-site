@@ -1,0 +1,14 @@
+body {
+  background-color: #e7e7de;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.name{
+  color: gray;
+  font-family: 'Asap Condensed', sans-serif;
+  font-family: 'Josefin Slab', serif;
+  font-size: 250%;
+}
