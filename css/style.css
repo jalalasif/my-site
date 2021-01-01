@@ -1,14 +1,33 @@
+/* The body style */
 body {
   background-color: #e7e7de;
 }
 
+/* All h2 styles */
 h2 {
   font-family: "Times New Roman", Times, serif;
 }
 
+/* Name header */
 .name{
   color: gray;
   font-family: 'Asap Condensed', sans-serif;
-  font-family: 'Josefin Slab', serif;
-  font-size: 250%;
+  font-family: 'Merriweather', serif;
+  font-size: 300%
+}
+
+.table{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h3{
+  font-family: 'Martel', serif;
+  font-size: 100%
+}
+
+/* Controls the text embedded in the page directory row */
+.table{
+  color:#008891;
+
 }
