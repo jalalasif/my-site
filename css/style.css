@@ -1,39 +1,37 @@
 /* The body style */
 body {
-  background-color: #e7e7de;
-}
-
-/* All h2 styles */
-h2 {
-  font-family: "Times New Roman", Times, serif;
+  background-color: #eeeded;
 }
 
 /* Name header */
 .name {
-  color: #14274e;
-  font-family: 'Josefin Sans', sans-serif;
+  color: #8f384d;
+  font-family: 'Ubuntu Condensed', sans-serif;
   font-size: 300%
+}
+
+/* Adds padding between the site top boundary and the title name */
+.title{
+  padding-top: 10px;
 }
 
 /* Controls the layout of the table */
 .table {
   margin-right: auto;
   margin-left: auto;
-  font-family: 'Martel', serif;
 }
 
 /* Controls the text embedded in the page directory row */
 .table {
-  color: #008891;
-  font-size: 100%;
+  color: #8f384d;
+  font-size: 75%;
+  font-family: 'Quicksand', sans-serif;
 }
 
-h3 {
-  font-family: 'Martel', serif;
-  font-size: 100%
+/* Controls the padding etc of the row of page directories */
+.table-layout{
+  padding-top: 50px;
 }
-
-
 
 /* Padding for sections */
 .projects {
@@ -55,10 +53,17 @@ h3 {
 /* Padding end */
 /* Intro text */
 .intro-text {
-  font-family: 'Martel', serif;
+  color: #5c6e91;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .alligned-text {
   display: inline-block;
   padding-top: 50px;
+}
+
+.text-table{
+  width: 50%;
+  margin-right: auto;
+  margin-bottom: auto;
 }
