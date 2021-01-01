@@ -9,25 +9,56 @@ h2 {
 }
 
 /* Name header */
-.name{
-  color: gray;
-  font-family: 'Asap Condensed', sans-serif;
-  font-family: 'Merriweather', serif;
+.name {
+  color: #14274e;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 300%
 }
 
-.table{
+/* Controls the layout of the table */
+.table {
   margin-right: auto;
   margin-left: auto;
+  font-family: 'Martel', serif;
 }
 
-h3{
+/* Controls the text embedded in the page directory row */
+.table {
+  color: #008891;
+  font-size: 100%;
+}
+
+h3 {
   font-family: 'Martel', serif;
   font-size: 100%
 }
 
-/* Controls the text embedded in the page directory row */
-.table{
-  color:#008891;
 
+
+/* Padding for sections */
+.projects {
+  padding-right: 30px;
+  font-weight: bold;
+}
+
+.resume {
+  padding-right: 30px;
+  font-weight: bold;
+}
+
+.blog{
+  font-weight: bold;
+}
+
+/* Did not add style for Blog as its already positioned correctly */
+
+/* Padding end */
+/* Intro text */
+.intro-text {
+  font-family: 'Martel', serif;
+}
+
+.alligned-text {
+  display: inline-block;
+  padding-top: 50px;
 }
