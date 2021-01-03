@@ -2,7 +2,6 @@
 body {
   background-color: #eeeded;
 
-
 }
 
 /* Name title header */
@@ -93,38 +92,4 @@ a:active {
   color: #8f384d;
   background-color: transparent;
   text-decoration: none;
-}
-
-/* Link colour property end */
-
-/* -----------------------RESUME------------------------- */
-.category-block{
-  position: relative;
-  background-color: white;
-  width: 50%;
-  display: inline-block;
-
-}
-
-.text-table-resume {
-  width: 125%;
-  margin-right: auto;
-  margin-bottom: auto;
-  position: relative;
-}
-
-.category{
-  text-align: center;
-  color: #5c6e91;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 200%;
-  padding: 100px;
-}
-
-.detail-block{
-  background-color: blue;
-  width: 50%;
-  position: relative;
-  left: 50%;
-  display: inline-block;
 }
