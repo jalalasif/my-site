@@ -1,7 +1,27 @@
+body {
+    background-color: #eeeded;
+}
+
 .title-block{
     width: 100%;
-    color: #222831;
+    color: #8f384d;
     /* background-color: #dddddd; */
     text-align: center;
-    
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    color: #5c6e91;
+}
+
+h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+strong {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
 }
