@@ -25,3 +25,25 @@ strong {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
 }
+
+.summary{
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Modify the backgorund color */ 
+.navbar-custom { 
+    font-family: 'Quicksand', sans-serif;
+    
+} 
+
+.nav-link{
+    color: gray;
+}
+
+.navbar-nav > .active > a {
+    color: red;
+    background-color: yellow;    
+  }
+  .nav-item > a:hover {
+    color:#8f384d;
+  }
