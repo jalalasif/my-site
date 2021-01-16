@@ -6,7 +6,7 @@ My first website, written from the ground up with HTML5, CSS3 and Bootstrap 5. Y
 
 Screenshots demonstrating the layout:
 
-<p><center>Home</center></p>
+<p align="center">Home</p>
 
 ![home](images/home.png)
 
