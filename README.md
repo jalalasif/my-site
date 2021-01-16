@@ -6,14 +6,20 @@ My first website, written from the ground up with HTML5, CSS3 and Bootstrap 5. Y
 
 Screenshots demonstrating the layout:
 
-<center>Home page</center>
+<br></br>
+<h4><center>Home page</center></h4>
+<br></br>
 
 ![home](images/home.png)
 
-<center>Resume</center>
+<br></br>
+<h4><center>Resume</center></h4>
+<br></br>
 
 ![resume](images/resume.png)
 
-<center>Projects</center>
+<br></br>
+<h4><center>Projects</center></h4>
+<br></br>
 
 ![projects](images/projects.png)
